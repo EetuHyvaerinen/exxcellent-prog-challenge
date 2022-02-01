@@ -1,1 +1,2 @@
 This is my solution to exxcellent solutions programming challenge
+My challenge was working with CSV files containing weather and football data
