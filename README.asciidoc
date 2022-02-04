@@ -1,2 +1,5 @@
 This is my solution to exxcellent solutions programming challenge
 My challenge was working with CSV files containing weather and football data
+
+To run you need maven
+Navigate to directory with cmd and run mvn verify and mvn exec:java
